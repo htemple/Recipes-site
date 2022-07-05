@@ -1,9 +1,46 @@
+
 h1, .center{
     text-align: center;
 }
 
-.foodImage{
-    height:400px;
-    width: auto;
-    
+p, h3, h2,h4{
+    margin-left: 40px;
+    font-size: 20px;
 }
+
+ul{
+    margin-left: 60px;
+}
+
+.topSpace{
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+.topSpace .vert-centered-list{
+    font-size: 30px;
+    display:inline-block;
+    vertical-align: middle;
+    color: rgba(0,0,0,.95);
+    font-family: "Source Sans Pro",sans-serif;
+    box-sizing: border-box;
+    border: 2px solid rgba(0,0,0,.15);
+    border-radius: 4px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+    position: relative;
+}
+.topSpace #quote{
+    font-size: 30px;
+}
+
+.topSpace .foodImage{
+    height: 400px;
+    width: auto;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
