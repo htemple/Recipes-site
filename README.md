@@ -1,4 +1,6 @@
 # Recipes-site
-This site is built following a tutorial from The Odin Project.
+This site was started following a tutorial from The Odin Project.
 https://www.theodinproject.com/lessons/foundations-recipes
+
+I have taken this assignment and ran with it.
 
